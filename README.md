@@ -11,19 +11,25 @@ before editing or opening code/forms in the njRAT 0.7d Horror Edition - SRC, com
 you will run into unfixable errors if you do not do that first!
 
 if you edit form1 or maybe some the forms  and try to compile you may run to errors like:
-Type 'NJRAT.L1' is not defined
-Type 'NJRAT.Pp1' is not defined
+Type 'NJRAT.L1' is not defined or 
+Type 'NJRAT.Pp1' is not defined or 
 Type 'NJRAT.Gclass9' is not defined
 
 this happen in compileing, to fix ther error and use normally again edit it:
 
 FROM 
+
         Me.L1 = New NJRAT.L1()
+        
         Me.Pp1 = New NJRAT.Pp1()
+        
 
 TO
+
         Me.L1 = New L1()
+        
         Me.Pp1 = New Pp1()
+        
 
 Remove the "NJRAT." and the erorr will go away and not break the rat
 if you do it wrong the notf form will never show up (no notification working)
