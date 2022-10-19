@@ -1,0 +1,4 @@
+replace the imagae with anything or replace the wav with any sound effect.
+-----------
+replace the .exes in the plugn folder with your own screamers
+-----------

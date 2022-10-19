@@ -1,0 +1,2 @@
+you can change anyhting in the locker plugin, means coustom colors, images, text, password prompt.
+-------------
