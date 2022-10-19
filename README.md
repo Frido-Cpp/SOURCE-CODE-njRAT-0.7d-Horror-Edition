@@ -52,5 +52,6 @@ ildasm.exe "C:\src release\njRAT 0.7d Horror Edition Stub - SRC\obj\x86\Release\
 like that:
 ildasm.exe "(path your .exe)" /out="(path your Stub.il)"
 
+if you want to quickly get the path type like: "ildasm.exe(space)" and drag the stub.exe to the cmd, it gets the path with qoute marks "(space)/out=" then drag stub.exe back to the cmd. and full paths was done fast
 
 need more or video? please open issue
